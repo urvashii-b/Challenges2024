@@ -1,6 +1,6 @@
 # First Research Paper - Experiments
 
-![Certificate Image](certificate.pdf)
+![Conference](https://github.com/user-attachments/assets/185e91db-8268-4246-a7ef-efab480df9fc)
 
 Experiments conducted for the research paper presented at IEEE 7th International Conference on Big Data and Artificial Intelligence (BDAI2024) held at North China University of Technology, Beijing, China, on July 5-7, 2024.
 
